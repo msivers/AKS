@@ -6,4 +6,6 @@ This repo is just a place for me to collate useful links and write ups of refere
 
 [Networking](Networking/README.md)
 
+[Security & Governance](Security-and-Goverance/README.md)
+
 [Workshops](Workshops/README.md)
