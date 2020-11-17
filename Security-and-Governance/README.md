@@ -2,7 +2,7 @@
 
 ## Azure Policy
 
-[Azure Policy Samples](https://docs.microsoft.com/en-us/azure/governance/policy/samples/)
+* [Azure Policy Samples](https://docs.microsoft.com/en-us/azure/governance/policy/samples/)
 
 ## Azure Policy for Kubernetes clusters (OPA and Gatekeeper)
 
